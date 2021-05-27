@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1622100656 source:c:\тестирование\8 лабораторна робота\8 Ћабораторна\main.cpp
+	<iostream>
+	<windows.h>
+	<clocale>
+	<wchar.h>
+	<fcntl.h>
+	<iomanip>
+	<io.h>
+	<cmath>
+	"ModulesZaviriukha.h"
+
+1622100557 c:\тестирование\8 лабораторна робота\8 Ћабораторна\moduleszaviriukha.h
+
+1622104696 source:c:\dorenskui\yevhen-zaviriukha-ki20\lab08\prj\moduleszaviriukha\main.cpp
+	<iostream>
+	<windows.h>
+	<clocale>
+	<wchar.h>
+	<fcntl.h>
+	<iomanip>
+	<io.h>
+	<cmath>
+	"ModulesZaviriukha.h"
+
+1622100557 c:\dorenskui\yevhen-zaviriukha-ki20\lab08\prj\moduleszaviriukha\moduleszaviriukha.h
+

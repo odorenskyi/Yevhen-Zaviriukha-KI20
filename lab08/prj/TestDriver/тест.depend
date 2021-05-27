@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1621968741 source:c:\тестирование\8 лабораторна робота\testdraiwer\тест\main.cpp
+	<iostream>
+	<cmath>
+	"ModulesZaviriukha.h"
+	<clocale>
+

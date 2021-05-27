@@ -1,0 +1,6 @@
+#ifndef MODULESZAVIRIUKHA_H_INCLUDED
+#define MODULESZAVIRIUKHA_H_INCLUDED
+float s_calculation(int,int,int);
+
+
+#endif // MODULESZAVIRIUKHA_H_INCLUDED
