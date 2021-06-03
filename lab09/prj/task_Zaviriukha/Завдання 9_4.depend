@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1622665777 source:c:\тестирование\modulЗавірюха\Завдання 9_4\main.cpp
+	<iostream>
+	<clocale>
+	<cmath>
+	"ModulesZaviriukha.h"
+
